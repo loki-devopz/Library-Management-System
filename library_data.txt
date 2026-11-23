@@ -1,0 +1,2 @@
+ID|TITLE|AUTHOR|STATUS
+B101|Python Basics|John Smith|Borrowed
